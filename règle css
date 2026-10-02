@@ -1,4 +1,0 @@
-p 	{
-  color: red;
-}
-La propriété CSS color permet de définir la valeur de couleur du texte d'un élément et de ses décorations de texte, et définit la valeur currentColor. currentColor peut être utilisée comme valeur indirecte pour d'autres propriétés et constitue la valeur par défaut pour d'autres propriétés de couleur, telles que border-color.
